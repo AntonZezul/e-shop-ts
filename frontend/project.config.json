@@ -1,0 +1,9 @@
+{
+  "unfurnishedUrl": true,
+  "cameraPlugin": true,
+  "showExterior": true,
+  "showConfigurator": false,
+  "configuratorType": "3d",
+  "showStyleguide": true,
+  "exteriorType": "single"
+}

@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-color: #222;
+  --error-color: #d00000;
+  --success-color: #4bb543;
+
+  --primary-color: #222;
+  --primary-color-100: #2222220d;
+  --primary-color-200: #4e8f6e;
+  --primary-color-300: #fff;
+
+  --secondary-color: #f4eee5;
+  --secondary-color-100: #f1f1f1;
+  --secondary-color-200: #e9e4db;
+  --secondary-color-300: #dedede;
+  --secondary-color-400: #f4eee5;
+  --secondary-color-500: #d2ccc0;
+
+  --tertiary-color: #fff;
+  --tertiary-color-100: #fff;
+  --tertiary-color-200: #fff;
+  --tertiary-color-300: #fff;
+}

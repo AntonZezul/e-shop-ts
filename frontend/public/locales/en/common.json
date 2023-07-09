@@ -1,0 +1,102 @@
+{
+    "unexpected_page": {
+        "message": "Page not found",
+        "action": "Home"
+    },
+    "home": {
+        "titlebar": {
+            "title": "FREE SHIPPING ON NEW JULY COFFEES",
+            "subtitle": "A SPECIAL 24-HOUR PROMOTION",
+            "button_action": "SHOP NEW COFFEES"
+        },
+        "subscription": {
+            "title": "FIND YOUR PERFECT SUBSCRIPTION",
+            "subtitle": "Customize a subscription to the finest direct-trade coffees in the world. Whether you’re feeling adventurous or already have a favorite, we have a subscription to fit your sipping style.",
+            "1": {
+                "title": "ROASTER’S CHOICE",
+                "subtitle": "A rotation of curated coffees.",
+                "action": "SHOP ROASTER’S CHOICE"
+            },
+            "2": {
+                "title": "FAVORITE BLENDS",
+                "subtitle": "Consistently delicious best-sellers.",
+                "action": "SHOP BLENDS"
+            },
+            "3": {
+                "title": "GIFT SUBSCRIPTIONS",
+                "subtitle": "Share the love of Verve coffee.",
+                "action": "SHOP GIFT SUBSCRIPTIONS"
+            }
+        },
+        "sections": {
+            "1": {
+                "title": "FUELING YOUNG THE GIANT’S TOUR",
+                "subtitle": "This vibrant and approachable blend is a perfect fit to celebrate Young the Giant's new album, which hits all those tasty notes."
+            },
+            "2": {
+                "title": "FIND THE COFFEE OF YOUR DREAMS",
+                "subtitle": "Take our coffee quiz to get personalized suggestions based on your coffee-drinking style."
+            },
+            "3": {
+                "title": "THE BLEND BREAKDOWN",
+                "subtitle": "We've created a quick guide of our seven best-selling coffee blends."
+            }
+        }
+    },
+    "location": {
+        "titlebar": {
+            "title": "COFFE SHOP NEAR YOU",
+            "subtitle": "If you are not near one of our cafes, use the map below to search for coffee, instant, and flash brew products sold at our retail partners nationwide."
+        }
+    },
+    "contact": {
+        "titlebar": {
+            "title": "LET'S CRAFT THE FUTURE OF COFFEE",
+            "subtitle": "Sourcing the very best coffee in the world is our passion. With an unparalleled focus on craft, quality and relationships, we’re dedicated to making a positive impact in our coffee communities from Farmlevel to Streetlevel."
+        }
+    },
+    "navigation": {
+        "home": "Home",
+        "store": "Store",
+        "location": "Location",
+        "contact": "Contact"
+    },
+    "footer": {
+        "motto": "BE THE FIRST TO KNOW!",
+        "contact_info_title": "Contact Information"
+    },
+    "contact_form": {
+        "title": "Contact Us",
+        "fullname": "Your Name",
+        "email": "E-mail",
+        "message": "Your message",
+        "submit": "SEND",
+        "required": "The field cannot be empty",
+        "invalid_email": "Invalid Email",
+        "success": "SENT SUCCESSFULLY"
+    },
+    "coffee_filter": {
+        "title": "COFFEE",
+        "not_found": "Coffee not found",
+        "selector": {
+            "label": "Roast level:",
+            "all": "All",
+            "light": "Light",
+            "medium": "Medium",
+            "dark": "Dark"
+        },
+        "input_range": {
+            "label": "Price"
+        }
+    },
+    "coffee_details": {
+        "price": "PRICE:",
+        "quantity": "QUANTITY:",
+        "button_action": "ADD TO CART"
+    },
+    "basket": {
+        "title": "BAG",
+        "total": "SUBTOTAL",
+        "check_out": "CHECK OUT"
+    }
+}

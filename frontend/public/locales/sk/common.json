@@ -1,0 +1,102 @@
+{
+  "unexpected_page": {
+    "message": "Stránka nebola nájdená",
+    "action": "Domov"
+  },
+  "home": {
+    "titlebar": {
+      "title": "DOPRAVA ZADARMO NA NOVÚ JÚLOVÚ KÁVU",
+      "subtitle": "ŠPECIÁLNA 24-HODINOVÁ AKCIA",
+      "button_action": "NAKUPUJTE NOVÉ KÁVY"
+    },
+    "subscription": {
+      "title": "NÁJDITE SI DOKONALÉ PREDPLATNÉ",
+      "subtitle": "Prispôsobte si predplatné najlepšej priamo obchodovanej kávy na svete. Či už sa cítite odvážne, alebo už máte svoju obľúbenú, máme predplatné, ktoré vyhovuje vášmu štýlu popíjania.",
+      "1": {
+        "title": "VÝBER PRAŽIARNE",
+        "subtitle": "Rotácia vybraných druhov kávy.",
+        "action": "NAKUPUJTE V OBCHODE PRAŽIAREŇ"
+      },
+      "2": {
+        "title": "OBĽÚBENÉ ZMESI",
+        "subtitle": "Trvalo chutné bestsellery.",
+        "action": "PREDAJŇA ZMESÍ"
+      },
+      "3": {
+        "title": "DARČEKOVÉ ODBERY",
+        "subtitle": "Podeľte sa o lásku ku káve z kaviarne.",
+        "action": "NAKUPUJTE DARČEKOVÉ PREDPLATNÉ"
+      }
+    },
+    "sections": {
+      "1": {
+        "title": "POHONNÉ HMOTY NA TURNÉ MLADÉHO OBRA",
+        "subtitle": "Táto živá a príjemná zmes sa dokonale hodí na oslavu nového albumu Young the Giant, ktorý sa trafí do všetkých týchto chutných tónov."
+      },
+      "2": {
+        "title": "NÁJSŤ KÁVU SVOJICH SNOV",
+        "subtitle": "Vyplňte náš kvíz o káve a získajte personalizované návrhy na základe vášho štýlu pitia kávy."
+      },
+      "3": {
+        "title": "ROZDELENIE ZMESI",
+        "subtitle": "Vytvorili sme stručného sprievodcu našimi siedmimi najpredávanejšími kávovými zmesami."
+      }
+    }
+  },
+  "location": {
+    "titlebar": {
+      "title": "KAVIAREŇ VO VAŠOM OKOLÍ",
+      "subtitle": "Ak sa nenachádzate v blízkosti niektorej z našich kaviarní, použite mapu nižšie a vyhľadajte kávu, instantnú kávu a produkty na rýchle varenie, ktoré sa predávajú u našich maloobchodných partnerov v celej krajine."
+    }
+  },
+  "contact": {
+    "titlebar": {
+      "title": "VYTVORME BUDÚCNOSŤ KÁVY",
+      "subtitle": "Získavanie tej najlepšej kávy na svete je našou vášňou. S bezkonkurenčným zameraním na remeslo, kvalitu a vzťahy sa snažíme pozitívne ovplyvňovať naše kávové komunity od úrovne farmy až po úroveň ulice."
+    }
+  },
+  "navigation": {
+    "home": "Hlavna",
+    "store": "Obchod",
+    "location": "Lokalita",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "motto": "BUĎTE PRVÝ, KTO SA TO DOZVIE!",
+    "contact_info_title": "Kontaktné informácie"
+  },
+  "contact_form": {
+    "title": "Kontaktujte nás",
+    "fullname": "Vaše meno",
+    "email": "Email",
+    "message": "Vaša správa",
+    "submit": "ODOSLAŤ",
+    "required": "Pole nemôže byť prázdne",
+    "invalid_email": "Invalidný e-mail",
+    "success": "ÚSPEŠNE ODOSLANÝ"
+  },
+  "coffee_filter": {
+    "title": "KÁVY",
+    "not_found": "Káva nebola nájdená",
+    "selector": {
+      "label": "Úroveň opekania:",
+      "all": "Všetky",
+      "light": "Ľahké",
+      "medium": "Stredné",
+      "dark": "Temné"
+    },
+    "input_range": {
+      "label": "Cena:"
+    }
+  },
+  "coffee_details": {
+    "price": "CENA:",
+    "quantity": "MNOŽSTVO:",
+    "button_action": "PRIDAŤ DO KOŠÍKA"
+  },
+  "basket": {
+    "title": "KOŠÍK",
+    "total": "SÚČET",
+    "check_out": "SKONTROLOVAŤ"
+  }
+}
